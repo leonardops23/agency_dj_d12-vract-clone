@@ -1,0 +1,8 @@
+django
+django-environ
+django-cors-headers
+django-rest-framework
+Pillow
+django-storages
+django-ckeditor
+psycopg2
